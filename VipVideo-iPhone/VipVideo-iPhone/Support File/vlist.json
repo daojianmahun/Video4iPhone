@@ -1,0 +1,105 @@
+{
+    "platformlist": [{
+        "name": "iqiyi",
+        "url": "http://www.iqiyi.com"
+    },
+    {
+        "name": "qq",
+        "url": "http://v.qq.com"
+    },
+    {
+        "name": "youku",
+        "url": "http://www.youku.com"
+    }
+    ],
+    
+    "list": [{
+        "name": "原地址",
+        "url": ""
+    },
+    {
+        "name": "618G",
+        "url": "http://jx.618g.com/?url=",
+        "title": "618G",
+        "intab": 1
+    },
+    {
+        "name": "玩的嗨",
+        "url": "http://tv.wandhi.com/go.html?url=",
+        "title": "综合接口，一键VIP*** 更新可用【作者mark zhang】脚本的接口",
+        "intab": 0
+    },
+    {
+        "name": "最惠买",
+        "url": "http://www.zhmdy.top/index.php?zhm_jx=",
+        "title": "懒人专用***脚本接口",
+        "intab": 0
+    },
+    {
+        "name": "噗噗电影",
+        "url": "http://www.pupudy.com/splay.php?play=",
+        "title": "综合接口，破解全网VIP视频会员-去广告【作者ttmsjx】脚本的接口",
+        "intab": 0
+    },
+    {
+        "name": "搜你妹",
+        "url": "http://www.sonimei.cn/?url=",
+        "title": "综合接口，VIP视频*** 更新可用【作者sonimei134】脚本的接口",
+        "intab": 0
+    },
+    {
+        "name": "ODFLV",
+        "url": "http://aikan-tv.com/?url=",
+        "title": "不稳定，广告过滤软件可能有影响",
+        "intab": 1
+    },
+    {
+        "name": "石头解析",
+        "url": "https://jiexi.071811.cc/jx.php?url=",
+        "title": "手动点播放",
+        "intab": 1
+    },
+    {
+        "name": "乐乐云",
+        "url": "https://660e.com/?url=",
+        "title": "乐乐云，未知效果",
+        "intab": 1
+    },
+    {
+        "name": "旋风解析",
+        "url": "http://api.xfsub.com/index.php?url=",
+        "title": "1905优先使用",
+        "intab": 1
+    },
+    {
+        "name": "石头解析",
+        "url": "https://jiexi.071811.cc/jx.php?url=",
+        "title": "手动点播放",
+        "intab": 1
+    },
+    {
+        "name": "无名小站",
+        "url": "http://www.sfsft.com/admin.php?url=",
+        "title": "无名小站同源",
+        "intab": 1
+    },
+    {
+        "name": "VIP看看",
+        "url": "http://q.z.vip.totv.72du.com/?url=",
+        "title": "更换线路成功率会提高",
+        "intab": 1
+    },
+    {
+        "name": "无名小站2",
+        "url": "http://www.wmxz.wang/video.php?url=",
+        "title": "转圈圈就换线路",
+        "intab": 1
+    },
+    {
+        "name": "人人发布",
+        "url": "http://v.renrenfabu.com/jiexi.php?url=",
+        "title": "综合，多线路",
+        "intab": 0
+    }
+    ]
+}
